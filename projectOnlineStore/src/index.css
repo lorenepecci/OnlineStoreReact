@@ -1,0 +1,170 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+h5,
+h4,
+h3 {
+  text-align: center;
+  color: #4a403a;
+}
+
+.justo {
+  text-align: left;
+  line-height: 1.5;
+}
+
+.bold {
+  font-weight: bold;
+}
+.avaliation {
+  margin-left: 90px;
+}
+
+.but {
+  padding-bottom: 115px;
+}
+
+.spaceBotton {
+  margin-bottom: 25px;
+}
+
+.container1-detailedProduct {
+  padding-top: 25px;
+  margin-left: 95px;
+  padding-bottom: 25px;
+}
+
+.itens:hover {
+  background-color: #d8d2cb;
+}
+
+.itens {
+  display: flex;
+}
+
+.imgFrete {
+  position: absolute;
+}
+
+.centerCard {
+  justify-content: center;
+  margin-top: 14px;
+  margin-bottom: 14px;
+}
+
+.botaoitens {
+  margin-left: 10%;
+}
+.centralizar {
+  margin-left: 75px;
+  padding-right: 140px;
+}
+.centralizarimg {
+  margin-left: 30px;
+}
+
+.cartphoto {
+  margin-left: 350px;
+}
+
+.centralizarCart {
+  padding-top: 50px;
+}
+.buttonfinalizar {
+  width: 50%;
+  margin-top: 40px;
+  margin-left: 310px;
+}
+
+.productListening {
+  justify-content: center;
+}
+
+.priceFinal {
+  color: blue;
+}
+
+.centralizarResumo {
+  margin-left: 285px;
+  margin-right: 200px;
+  margin-bottom: 30px;
+  margin-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border: solid blue;
+}
+
+.navbar {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  margin-right: 35px;
+}
+
+.brand {
+  padding-left: 58px;
+}
+
+.star-rating__stars {
+  position: relative;
+  height: 1rem;
+  width: 5rem;
+  background: url(./images/estrela.png);
+  background-size: 1rem 1rem;
+}
+.star-rating__label {
+  position: absolute;
+  height: 100%;
+  background-size: 5rem 5rem;
+}
+
+.star-rating__stars .star-rating__label:hover {
+  background: url(./images/starpreta.jpg);
+  background-size: 1rem 1rem;
+}
+
+.star-rating__stars .star-rating__label:nth-of-type(1):active {
+  background: url(./images/starpreta.jpg);
+  background-size: 1rem 1rem;
+}
+
+.star-rating__input {
+  margin: 0;
+  position: absolute;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+  clip: rect(1px, 1px, 1px, 1px);
+}
+.star-rating__stars .star-rating__label:nth-of-type(1) {
+  z-index: 5;
+  width: 20%;
+}
+.star-rating__stars .star-rating__label:nth-of-type(2) {
+  z-index: 4;
+  width: 40%;
+}
+.star-rating__stars .star-rating__label:nth-of-type(3) {
+  z-index: 3;
+  width: 60%;
+}
+.star-rating__stars .star-rating__label:nth-of-type(4) {
+  z-index: 2;
+  width: 80%;
+}
+.star-rating__stars .star-rating__label:nth-of-type(5) {
+  z-index: 1;
+  width: 100%;
+}

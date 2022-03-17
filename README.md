@@ -1,7 +1,7 @@
-Projeto Loja Online 
-- Ferramentas Utilizadas: React.js, HTML, CSS, ReactStrap, Router-Dom, localStorage, Funções assıncronas e Fetch API.
+# Projeto Loja Online
 
 ## Este projeto é um desenvolvimento simplificado de uma loja online com dados da API do Mercado Livre.
+- Ferramentas Utilizadas: React.js, HTML, CSS, ReactStrap, Router-Dom, localStorage, Funções assıncronas e Fetch API.
 
 ### O que foi desenvolvido:
 

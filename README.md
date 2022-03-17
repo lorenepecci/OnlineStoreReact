@@ -5,7 +5,7 @@
 
 ### O que foi desenvolvido:
 
-- Buscar produtos por termos e categorias a partir da API do Mercado Livre < https://api.mercadolibre.com/sites/MLB/categories>;
+- Buscar produtos por termos e categorias a partir da API do Mercado Livre <https://developers.mercadolivre.com.br/pt_br/itens-e-buscas>;
 - Interagir com os produtos buscados de modo a adicioná-los e removê-los de um carrinho de compras em diferentes quantidades;
 - Visualizar detalhes e avaliações prévias de um produto, bem como criar novas avaliações;
 - Finalizar a compra (simulada) dos itens selecionados.
